@@ -1,1 +1,4 @@
 https://youtu.be/WpgvbyuWPkc
+
+print(coordinate) = 目前節點順序
+print(distance()) = 總長度
